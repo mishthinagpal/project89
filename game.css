@@ -8,18 +8,18 @@ body
 		background:white;
 		padding: 20px;
 		float: none;
-		border-radius: 25px;
+		border-radius: 50px;
 	}
 
 
-#player1_name , #player2_names
+#player1_name_input , #player2_name_input
 {
 	display: inline-block;
 	margin-left: 20px;
 }
-#words
+#Number1 , #Number2
 {
-	width: 70%;
+	width: 80%;
 }
 #word_display
 {
@@ -28,7 +28,7 @@ body
 #output
 {
 background:white;
-border-radius: 10px;
+border-radius: 5px;
 border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
